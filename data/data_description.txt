@@ -525,4 +525,7 @@ SaleCondition: Condition of sale
 Found conditions
         
         Normal Normal SaleCondition
-        
+
+Final Condition
+
+       Alloca above assessed
