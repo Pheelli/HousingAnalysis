@@ -529,3 +529,7 @@ Found conditions
 Final Condition
 
        Alloca above assessed
+
+Scam Condition
+
+       ScreenPorch connected
